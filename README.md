@@ -31,3 +31,17 @@ The project directory should contain the following structure:
 - `Gpt2outputdetector` - Folder that contains all files required to setup and run GPT-2 Output Detector
 - `VariantData` - Folder that contains all variant data with the AIGC, there should be 13 variant file 
 - `_metrics_performance.ipynb` - Python jupyter notebook that is used to calculate the performance of the AIGC Detector
+- `.gitattributes` - For upload large files like ".pt"
+- `STATUS.md` - For mentions what badges we are applying
+- `LICNSE` - For describing the distribution rights
+
+# Authors
+- Wei Hung Pan
+- Ming Jie Chok
+- Jonathan Wong Leong Shan
+- Yung Xin Shin
+- Yeong Shian Poon
+- Zhou Yang
+- Chun Yong Chong
+- David Lo
+- Mei Kuan Lim
