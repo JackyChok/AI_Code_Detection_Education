@@ -24,10 +24,10 @@ Follow the same procedure as outlined in the RQ2 Coding Guide, but additionally,
 
 # Folder structure
 The project directory should contain the following structure:
-`GPTZero` - Folder that contains all files required to setup and run GPTZero
-`DectectGPT` - Folder that contains all files required to setup and run DectectGPT
-`GLTR` - Folder that contains all files required to setup and run GLTR
-`Sapling` - Folder that contains all files required to setup and run Sapling
-`Gpt2outputdetector` - Folder that contains all files required to setup and run GPT-2 Output Detector
-`VariantData` - Folder that contains all variant data with the AIGC, there should be 13 variant file 
-`_metrics_performance.ipynb` - Python jupyter notebook that is used to calculate the performance of the AIGC Detector
+- `GPTZero` - Folder that contains all files required to setup and run GPTZero
+- `DectectGPT` - Folder that contains all files required to setup and run DectectGPT
+- `GLTR` - Folder that contains all files required to setup and run GLTR
+- `Sapling` - Folder that contains all files required to setup and run Sapling
+- `Gpt2outputdetector` - Folder that contains all files required to setup and run GPT-2 Output Detector
+- `VariantData` - Folder that contains all variant data with the AIGC, there should be 13 variant file 
+- `_metrics_performance.ipynb` - Python jupyter notebook that is used to calculate the performance of the AIGC Detector
