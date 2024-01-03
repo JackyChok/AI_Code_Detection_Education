@@ -1,6 +1,10 @@
 # Assessing AI Detectors in Identifying AI-Generated Code: Implications for Education
 
-This is a research artifact for the ICSE 2024 paper. The following two research questions were constructed to guide the study.
+# Abstract
+This abstract introduces the artifact associated with the ICSE '24 paper titled "Assessing AI Detectors in Identifying AI-Generated Code: Implications for Education." The study delves into an empirical examination of the LLM's attempts to circumvent detection by AIGC Detectors. The methodology entails code generation in response to targeted queries using diverse variants. Our primary goal is to attain the Available and Reusable badges. The abstract further offers comprehensive technical details about each artifact component and elucidates its utility for prospective research endeavors.
+
+# Research Question
+The following two research questions were constructed to guide the study.
 - RQ1: *How accurate are existing AIGC Detectors at detecting AI-generated code?*
 - RQ2: *What are the limitations of existing AIGC Detectors when it comes to detecting AI-generated code?*
 
