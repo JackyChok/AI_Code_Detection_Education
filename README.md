@@ -33,7 +33,7 @@ The project directory should contain the following structure:
 # Comprehensive Results Overview: AIGC Detector Variants
 The summarized results for each variant of AIGC Detector can be found in the respective results folders within each AIGC Detector directory.
 
-# Coding Guide for RQ2
+# Coding Guide for RQ1
 Below show the detailed instructions of each AIGC Detector on accessing the results of each variant. Please direct to each AIGc Detector project directory first then only follows the steps on each AIGC Detectors below. After obtaining the results, follow the example provided in `_metrics_performance.ipynb` to calculate the metrics performance of the AIGC Detector.
 
 ## 1. DetectGPT AIGC Detector
@@ -152,8 +152,8 @@ Before using this project, you'll need:
 - A Sapling API key (obtain from [Sapling API Website](https://sapling.ai))
 
 
-# Coding Guide for RQ3
-Follow the same procedure as outlined in the RQ2 Coding Guide, but additionally, execute the Statistical Test demonstrated in the  `_metrics_performance.ipynb` for a comprehensive analysis.
+# Coding Guide for RQ2
+Follow the same procedure as outlined in the RQ1 Coding Guide, but additionally, execute the Statistical Test demonstrated in the  `_metrics_performance.ipynb` for a comprehensive analysis.
 
 # Authors
 - Wei Hung Pan
